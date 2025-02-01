@@ -7,7 +7,7 @@ We are excited for you to join this landmark summer school!
 
 Take a look at the different institutes involved:
 
-![Institutes Involved](SummerCodingSchool_Map_Final.png)
+![Institutes Involved](https://events.chpc.ac.za/event/145/images/190-SummerCodingSchool_Map_Final.png)
 
 ---
 
