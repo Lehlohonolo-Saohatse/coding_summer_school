@@ -3,7 +3,6 @@
 
 The Coding Summer School (CSS) is jointly organized by the Centre for High Performance Computing (CHPC) of the CSIR and the National Institute for Theoretical Computational Science (NITheCS). This collaboration stems from a concept paper by the South African Department of Science and Innovation (DSI), which explores expanding NITheP into a national institute for theoretical and computational science. This is the 15th year of the event hosted by CHPC and the 7th year in collaboration with NITheCS.
 
-We are excited for you to join this landmark summer school!
 
 Take a look at the different institutes involved:
 
