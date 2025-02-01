@@ -1,0 +1,8 @@
+1.2 Python Challenge
+Challenge 1
+Open up this link in your browser:
+
+https://arcade.redhat.com/bash/index.htmlLinks to an external site.
+
+Play the game at least twice, focusing on all the Python commands you know.
+
