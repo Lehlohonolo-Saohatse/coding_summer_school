@@ -30,4 +30,4 @@ Take a look at the different institutes involved:
 7. Probability Theory and Statistics (Part 1)  
 8. Probability Theory and Statistics (Part 2)  
 9. Machine Learning  
-10. Artificial Intelligence  
+10. Machine Learning 
